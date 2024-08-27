@@ -1,0 +1,11 @@
+
+38.154.227.167:5868:ivgecwgu:xspedsmnc48t
+45.127.248.127:5128:ivgecwgu:xspedsmnc48t
+64.64.118.149:6732:ivgecwgu:xspedsmnc48t
+167.160.180.203:6754:ivgecwgu:xspedsmnc48t
+166.88.58.10:5735:ivgecwgu:xspedsmnc48t
+173.0.9.70:5653:ivgecwgu:xspedsmnc48t
+45.151.162.198:6600:ivgecwgu:xspedsmnc48t
+204.44.69.89:6342:ivgecwgu:xspedsmnc48t
+173.0.9.209:5792:ivgecwgu:xspedsmnc48t
+206.41.172.74:6634:ivgecwgu:xspedsmnc48t
